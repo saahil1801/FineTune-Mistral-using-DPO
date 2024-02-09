@@ -9,8 +9,11 @@ Dynamic Preference Optimization (DPO) is an innovative training approach for mac
 ## Advantages of DPO
 
 Personalization: Tailors model outputs to align with individual user preferences, enhancing user satisfaction.
+
 Efficiency: Improves learning efficiency by focusing on areas of high relevance to user feedback.
+
 Adaptability: Enables models to adapt over time to changing user preferences or feedback patterns.
+
 Enhanced Performance: Targets performance improvements directly related to user-defined criteria, potentially leading to superior outcomes in specific applications.
 
 ## Setup and Installation
